@@ -15,10 +15,7 @@ loginBtn.addEventListener("click", function () {
             dashboard.style.display = "block";
 
         }
-        if (emailInput != email[i] && passwordInput != password[i]) {
-            alert("not match");
-
-        }
+        
     }
 
 
